@@ -88,6 +88,7 @@ def getaverage():
             print(students.name,"'s" " average is ", students.average())
             average_of_students += students.average()
         print('Average of all Students is ', average_of_students/len(listOfStudents))
+        print('Test')
 
 
 
